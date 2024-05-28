@@ -9,7 +9,7 @@ As seen in the diagram below, our system adopts the serverless architecture as w
 
 >A point to note is that the data stored using SharedPreferences on the client side is not stored in the database. This data stores the user-entered email address during login for verification purposes later on in Firebase’s passwordless sign-in.
 
-![image](https://github.com/wanq27/Infosys-1d-app/assets/118462447/eee96bec-33d0-41d6-9693-050ca035d748)
+<img src="https://github.com/wanq27/Infosys-1d-app/assets/118462447/eee96bec-33d0-41d6-9693-050ca035d748" width=800/>
 
 **Database Structure**
 <br />
@@ -24,7 +24,7 @@ The database is set up with 4 main collections: deals, imageLabels, items and us
 
 ### Flow
 
-![image](https://github.com/wanq27/Infosys-1d-app/assets/118462447/baebf192-38ae-4f90-a9a5-3e8bc2ccd8f3)
+<img src="https://github.com/wanq27/Infosys-1d-app/assets/118462447/baebf192-38ae-4f90-a9a5-3e8bc2ccd8f3" width=800/>
 
 
 ### Main Features
@@ -61,5 +61,5 @@ This feature facilitates the negotiation and arrangement of deals between buyers
 <br />
 This page allows the user to see detailed information about the item, as well as to ask questions and request a deal. This page has a communal Q&A section which allows all users to see what has been asked and answered about the item, to further add to the communal aspect of our app. Upon clicking the get it now button on the item, user will be directed to select their dealing preferences which will then be sent to the item lister.
 
-<img src="https://github.com/wanq27/Infosys-1d-app/assets/118462447/a0df587e-bfc9-43f2-8f5e-45c075432c3a" width=700/>
+<img src="https://github.com/wanq27/Infosys-1d-app/assets/118462447/a0df587e-bfc9-43f2-8f5e-45c075432c3a" width=800/>
 
