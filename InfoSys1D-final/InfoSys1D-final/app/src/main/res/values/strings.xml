@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">InfoSys1D</string>
+    <string name="privacy_policy_content">Information We Collect:\n- Personal Information: Name, Email, Phone Number.\n- Usage Information: App features accessed.</string>
+    <string-array name="Categories">
+        <item>Electronics</item>
+        <item>Gadgets</item>
+        <item>Materials</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="MeetupLocation">
+        <item>Hostel Blk 59</item>
+        <item>Hostel Blk 57</item>
+        <item>Hostel Blk 55</item>
+        <item>Bldg 5</item>
+        <item>Bldg 1</item>
+        <item>Bldg 2</item>
+        <item>Canteen</item>
+        <item>Upper Changi MRT</item>
+    </string-array>
+</resources>

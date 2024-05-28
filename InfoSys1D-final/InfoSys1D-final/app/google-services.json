@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147754715778",
+    "project_id": "infosys1d-8a0a5",
+    "storage_bucket": "infosys1d-8a0a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147754715778:android:aaf0c62b87bcdc7621429b",
+        "android_client_info": {
+          "package_name": "com.group46.infosys1d"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWv3pYhKcB91geNew8VWRqlty9mutLDRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
